@@ -30,7 +30,7 @@ bazel test tests:tests
 
 ## Directory Structure
 
-![Directory Structure](https://github.com/ourarash/cpp-template/blob/master/tree.png?raw=true | width = 100)
+<img alt="Directory Structure" src="https://github.com/ourarash/cpp-template/blob/master/tree.png?raw=true" width="200">
 
 ## Installing Bazel
 
