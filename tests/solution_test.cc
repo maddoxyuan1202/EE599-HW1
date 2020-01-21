@@ -2,9 +2,9 @@
 #include "gtest/gtest.h"
 #include <vector>
 
-TEST(HelloWorldShould, ReturnHelloWorld) {
+TEST(NameShould, ReturnName) {
   Solution solution;
-  std::string actual = solution.PrintHelloWorld();
-  std::string expected = "**** Hello World ****";
+  std::string actual = solution.PrintName();
+  std::string expected = "**** Weiheng Yuan ****";
   EXPECT_EQ(expected, actual);
 }
